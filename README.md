@@ -1,3 +1,3 @@
 # testrepo
 
-# Repository for testing purposes
+Repository for testing purposes
